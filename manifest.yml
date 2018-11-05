@@ -6,3 +6,4 @@ applications:
   - route: pal-tracker-ratkins.apps.pcfone.io
   env:
     WELCOME_MESSAGE: Hello from the review environment
+    
